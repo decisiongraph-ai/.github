@@ -78,5 +78,13 @@ Need help? Here are your options:
 
 ---
 
-**Built with ❤️ by the DecisionGraph AI Community**
+## 👥 Leadership
 
+**DecisionGraph AI** is led by visionary minds dedicated to advancing intelligent decision-making:
+
+- **[Prem Chand Kumar](https://www.linkedin.com/in/prem-chand-kumar/)** – Architect
+- **[Akash Raj](https://www.linkedin.com/in/akashraj4562/)** – Product Owner
+
+---
+
+**Built with ❤️ by the DecisionGraph AI Community**
