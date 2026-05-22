@@ -48,7 +48,7 @@ Researching workflow intelligence, operational cognition, and AI-native enterpri
 
 # 👥 Leadership
 
-DecisionGraph AI is led by visionary minds dedicated to advancing intelligent decision-making:
+DecisionGraph AI is led by professionals exploring the future of AI-native enterprise systems, operational intelligence, and organizational cognition.
 
 ## 🏛️ Strategic Vision & Systems Thinking
 
@@ -59,6 +59,10 @@ LinkedIn: https://www.linkedin.com/in/prem-chand-kumar/
 ### Akash Raj
 Product Owner  
 LinkedIn: https://www.linkedin.com/in/akashraj4562/
+
+### Sushmita Routh
+BI Manager — Operational Intelligence & Analytics  
+LinkedIn: https://www.linkedin.com/in/sushmita-routh-5a313bb0/
 
 ---
 
